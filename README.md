@@ -33,4 +33,7 @@ This project demonstrates full-stack development, authentication, database model
 ---
 
 ## 👤 Author
-Anagh Singla
+Anagh
+Naresh
+Manju Pranav
+Tharun
