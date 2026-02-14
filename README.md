@@ -17,38 +17,14 @@ QuestBoard is a full-stack web application that combines a Kanban task manager w
 
 ---
 
-## 🏗 Tech Stack
-
-**Frontend:** React, Tailwind CSS, GSAP  
-**Backend:** Node.js, Express.js  
-**Database:** MongoDB  
-**Authentication:** JWT  
-
----
-
-## ⚙️ Installation
 
 ### Clone Repository
 ```
-git clone https://github.com/yourusername/questboard.git
+git clone https://github.com/anaghsingla-ai/CSESA-HackSagon-
 cd questboard
 ```
 
-### Backend
-```
-cd server
-npm install
-node server.js
-```
 
-### Frontend
-```
-cd client
-npm install
-npm run dev
-```
-
----
 
 ## 🎯 Purpose
 
